@@ -1,0 +1,13 @@
+O que é Spring?
+
+R: Spring é uma tecnologia de BackEnd, é um conjunto de projetos que resolvem varios problemas no dia a dia.
+
+
+Comando para empacotar o projeto pelos arquivos wrappers do maven pelo terminal.
+
+> /.mvnw package
+
+
+Comando para limpar os arquivos criados em builds anteriores.
+
+> ./mvnw clean
