@@ -1,0 +1,1 @@
+@Controller - Indica que a classe é responsável por receber reqeuisições WEB

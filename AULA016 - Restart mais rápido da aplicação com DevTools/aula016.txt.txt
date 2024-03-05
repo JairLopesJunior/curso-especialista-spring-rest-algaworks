@@ -1,0 +1,7 @@
+DevTools faz um restart da aplicação ao realizar a ação de salvar.
+
+O SpringBoot separa em dois classLoader (é uma classe responsável por ler a estruturas das classes do projeto e ficar na memoria).
+
+Base = Tudo que não muda
+
+Restart = Sempre que altera algum codigo/recurso este classLoader é reiniciado
