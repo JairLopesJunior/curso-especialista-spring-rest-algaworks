@@ -1,0 +1,10 @@
+Injeção de dependencia é uma forma de inversão de controle, onde a gente injeta uma determinada dependencia em uma classe.
+
+Problema:
+
+Classes acopladas, evitar mexer nas classes já testadas.
+
+Por que usar?
+
+- Baixo acoplamento
+- Simplicidade
