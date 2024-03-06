@@ -1,0 +1,7 @@
+Spring IoC Container = É a implementação de Injeção de Dependencia do framework.
+
+Bean = É o nome que se da para objetos gerenciados pelo Container do Spring.
+
+Um Bean é instanciado, configurado e pode ser injetado em outros beans gerenciados pelo Container do Spring.
+
+O Container de Inversão de Controle do Spring é representado pela interface ApplicationContext.
