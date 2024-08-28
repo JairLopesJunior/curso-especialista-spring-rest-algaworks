@@ -1,0 +1,19 @@
+@Component
+@ConfigurationProperties("notification.email")
+public class NotificadorProperties {
+
+  private String hostServidor;
+  private Integer portaServidor;
+
+  public String getHostServidor() {
+    return hostServidor;
+  }
+
+  getter and setter....
+}
+
+======================================
+No arquivo Application.properties fica:
+
+notificador.email.host-servidor=smtp.algafood.com.br
+notificador.email.porta-servidor=25
