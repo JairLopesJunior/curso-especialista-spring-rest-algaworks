@@ -1,0 +1,8 @@
+@PostConstruct = Serve para realizar alguma ação quando o Bean for iniciado
+@PreDestroy = Serve para realizar alguma ação antes do Bean ser destruido
+
+@PostConstruct
+public void init() {}
+
+@PreDestroy
+public void destroy() {}
